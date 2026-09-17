@@ -1,0 +1,35 @@
+.header{
+    background-color: #171310;
+    padding: 0 24px;
+}
+
+.header-inner {
+    max-width: 1000px;
+    margin: 0 auto;
+    height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    color: #ffffff;
+    font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.nav {
+    display: flex;
+    gap: 30px;
+}
+
+.nav a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.nav a:hover {
+    color: #B3282D;
+}
