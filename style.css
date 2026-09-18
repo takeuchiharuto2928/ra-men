@@ -33,3 +33,16 @@
 .nav a:hover {
     color: #B3282D;
 }
+.section-title {
+    justify-content: center;
+}
+.features-list {
+    display: flex;
+    justify-content: center;
+}
+.features-item {
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+}
+
